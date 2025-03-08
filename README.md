@@ -17,45 +17,50 @@ Weather App – API Integration Project
 This project is a responsive weather application built as part of a Full-Stack Web Development internship. The objective is to demonstrate API integration by fetching and dynamically displaying real-time data from a public API. The application fetches weather data using the OpenWeatherMap API and presents it in an intuitive and responsive user interface.
 
 Features
-Dynamic API Integration:
 
-Real-time weather information fetched via the OpenWeatherMap API.
+1. Dynamic API Integration:
 
-Displays city-specific data such as temperature, weather conditions, humidity, and wind speed.
+ Real-time weather information fetched via the OpenWeatherMap API.
 
-Responsive Design:
+ Displays city-specific data such as temperature, weather conditions, humidity, and wind 
+ speed.
 
-Designed with a mobile-first approach using CSS and Flexbox.
+2. Responsive Design:
 
-Ensures compatibility with desktops, tablets, and smartphones.
+ Designed with a mobile-first approach using CSS and Flexbox.
 
-Error Handling:
+ Ensures compatibility with desktops, tablets, and smartphones.
 
-User-friendly messages for invalid input or API errors.
+3.Error Handling:
 
-Interactive and Modern UI:
+ User-friendly messages for invalid input or API errors.
 
-Clean design with gradients, shadows, and smooth transitions.
+4.Interactive and Modern UI:
 
-Styled using Google Fonts and CSS for a visually appealing experience.
+ Clean design with gradients, shadows, and smooth transitions.
+
+ Styled using Google Fonts and CSS for a visually appealing experience.
 
 Tech Stack
-HTML: Structure of the webpage.
 
-CSS: Styling and responsiveness.
+1.HTML: Structure of the webpage.
 
-JavaScript: API integration and DOM manipulation.
+2.CSS: Styling and responsiveness.
 
-OpenWeatherMap API: Data source for weather details.
+3.JavaScript: API integration and DOM manipulation.
+
+4.OpenWeatherMap API: Data source for weather details.
 
 How It Works
-Users input a city name and click the "Get Weather" button.
 
-The app fetches weather data from the API and displays it dynamically.
+1.Users input a city name and click the "Get Weather" button.
 
-If input is invalid, appropriate error messages are shown.
+2.The app fetches weather data from the API and displays it dynamically.
+
+3.If input is invalid, appropriate error messages are shown.
 
 Future Improvements
+
 Expand functionality to include additional APIs (e.g., news or forecast data).
 
 Add autocomplete for city names.
@@ -63,6 +68,7 @@ Add autocomplete for city names.
 Implement features like a 7-day weather forecast.
 
 Conclusion
+
 This project successfully meets the criteria of API integration and responsive design, showcasing fundamental web development skills. It serves as a strong foundation for future enhancements and learning.
 
 
