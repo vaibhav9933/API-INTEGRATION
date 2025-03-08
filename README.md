@@ -18,6 +18,6 @@
 
 
 *OUTPUT*:
-![Image](https://github.com/user-attachments/assets/f16f63a7-3e07-420b-b7ab-11805c49831d)
+![Image](https://github.com/user-attachments/assets/edf6d3ba-8095-4fd3-8084-2db787040300)
 
-![Image](https://github.com/user-attachments/assets/8266ebc9-dfa3-49df-b21f-33534762a002)
+![Image](https://github.com/user-attachments/assets/309b0d99-96e8-46ca-8c6a-aeffa54b708b)
