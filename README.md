@@ -20,16 +20,16 @@ This project is a responsive weather application built as part of a Full-Stack W
 
 1. Dynamic API Integration:
 
- Real-time weather information fetched via the OpenWeatherMap API.
+Real-time weather information fetched via the OpenWeatherMap API.
 
- Displays city-specific data such as temperature, weather conditions, humidity, and wind 
- speed.
+Displays city-specific data such as temperature, weather conditions, humidity, and wind 
+speed.
 
 2. Responsive Design:
 
- Designed with a mobile-first approach using CSS and Flexbox.
+Designed with a mobile-first approach using CSS and Flexbox.
 
- Ensures compatibility with desktops, tablets, and smartphones.
+Ensures compatibility with desktops, tablets, and smartphones.
 
 3.Error Handling:
 
@@ -41,7 +41,7 @@ This project is a responsive weather application built as part of a Full-Stack W
 
  Styled using Google Fonts and CSS for a visually appealing experience.
 
-Tech Stack
+**Tech Stack**
 
 1.HTML: Structure of the webpage.
 
@@ -51,7 +51,7 @@ Tech Stack
 
 4.OpenWeatherMap API: Data source for weather details.
 
-How It Works
+**How It Works**
 
 1.Users input a city name and click the "Get Weather" button.
 
@@ -59,7 +59,7 @@ How It Works
 
 3.If input is invalid, appropriate error messages are shown.
 
-Future Improvements
+**Future Improvements**
 
 Expand functionality to include additional APIs (e.g., news or forecast data).
 
@@ -67,7 +67,7 @@ Add autocomplete for city names.
 
 Implement features like a 7-day weather forecast.
 
-Conclusion
+**Conclusion**
 
 This project successfully meets the criteria of API integration and responsive design, showcasing fundamental web development skills. It serves as a strong foundation for future enhancements and learning.
 
