@@ -16,7 +16,7 @@
 Weather App – API Integration Project
 This project is a responsive weather application built as part of a Full-Stack Web Development internship. The objective is to demonstrate API integration by fetching and dynamically displaying real-time data from a public API. The application fetches weather data using the OpenWeatherMap API and presents it in an intuitive and responsive user interface.
 
-Features
+**Features**
 
 1. Dynamic API Integration:
 
