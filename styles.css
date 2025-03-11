@@ -1,0 +1,91 @@
+/* General Styling */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #89f7fe, #66a6ff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Main Container */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+/* Card Design */
+.card {
+  background: #ffffff;
+  padding: 20px 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  max-width: 400px;
+  width: 100%;
+}
+
+/* Title and Subtitle */
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333333;
+}
+
+.subtitle {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #555555;
+  margin-bottom: 20px;
+}
+
+/* Input and Button */
+.form-group {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  flex-grow: 1;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  outline: none;
+  transition: all 0.3s;
+}
+
+input:focus {
+  border-color: #00796b;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #00796b;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s;
+}
+
+button:hover {
+
+  background-color: #004d40;
+}
+
+/* Result Display */
+#result {
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #444444;
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
