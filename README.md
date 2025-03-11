@@ -72,7 +72,6 @@ Implement features like a 7-day weather forecast.
 This project successfully meets the criteria of API integration and responsive design, showcasing fundamental web development skills. It serves as a strong foundation for future enhancements and learning.
 
 
-
 *OUTPUT*:
 ![Image](https://github.com/user-attachments/assets/edf6d3ba-8095-4fd3-8084-2db787040300)
 
