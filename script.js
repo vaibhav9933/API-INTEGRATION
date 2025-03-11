@@ -27,6 +27,7 @@ fetchButton.addEventListener('click', async () => {
   }
 });
 
+
 // Display weather data in a formatted way
 function displayWeatherData(data) {
   resultDiv.innerHTML = `
