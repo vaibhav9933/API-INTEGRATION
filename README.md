@@ -49,6 +49,14 @@ The **Weather App – API Integration Project** is a web-based application devel
 3. **Displaying Data**: The weather data, such as temperature, weather conditions, humidity, and wind speed, is displayed dynamically.
 4. **Error Handling**: If the city name is invalid or there’s an issue with the API, an appropriate error message is displayed to the user.
 
+---
+
+## Screenshots
+
+![Weather App Screenshot 1](https://github.com/user-attachments/assets/edf6d3ba-8095-4fd3-8084-2db787040300)
+
+![Weather App Screenshot 2](https://github.com/user-attachments/assets/309b0d99-96e8-46ca-8c6a-aeffa54b708b)
+
 ## Future Improvements
 
 - **Multi-API Integration**: Add additional APIs for news, 7-day weather forecasts, or other data.
@@ -64,10 +72,4 @@ The **Weather App – API Integration** project demonstrates the integration of 
 With further improvements, this app can be expanded to include more features and become a powerful weather tool for users.
 
 ---
-
-## Screenshots
-
-![Weather App Screenshot 1](https://github.com/user-attachments/assets/edf6d3ba-8095-4fd3-8084-2db787040300)
-
-![Weather App Screenshot 2](https://github.com/user-attachments/assets/309b0d99-96e8-46ca-8c6a-aeffa54b708b)
 
